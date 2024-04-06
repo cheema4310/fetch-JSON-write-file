@@ -26,4 +26,4 @@ node app.js
 
 ### Executing program
 
-* Before execution and add API endpoint into .env file, mentioned in .env.example.
+* Before execution, add API endpoint into .env file, mentioned in .env.example.
